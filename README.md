@@ -31,6 +31,7 @@ I built this project to solve the real problem we faced at our farm - manual mil
 <img width="717" height="567" alt="Assembled Image 2" src="https://github.com/user-attachments/assets/08dc56a1-d4a3-49c9-af65-d6e10dc88c08" />
 <img width="777" height="553" alt="Assembled Image 1" src="https://github.com/user-attachments/assets/301a611a-7cc2-4d3e-8544-50fcdbbc3b37" />
 <img width="573" height="424" alt="3D Image PCB" src="https://github.com/user-attachments/assets/58cf9de8-4d0c-4106-823e-6059a5be19d6" />
+<img width="686" height="433" alt="Screenshot 2026-06-29 141537" src="https://github.com/user-attachments/assets/a17f3087-cb3b-4af7-a0a7-a6125f75e96d" />
 
 
 #### Bill of Materials
