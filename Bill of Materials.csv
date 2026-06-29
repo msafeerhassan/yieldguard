@@ -1,24 +1,13 @@
 ﻿Item Name,Quantity,Link,Cost
-ESP32-C3-SuperMini,1,Epro.pk Link,$2.60 
-CZL-601 Aluminum Alloy 100kg Load Cell,1,AliExpress Link,$10.90 
-HX711 Dual-Channel Weight ADC,1,Epro.pk Link,$0.60 
-2.54mm Pitch Female Pin Header Strip 40P,1,Already own this,$0.00 
-Micro-USB Cable,1,Already own this,$0.00 
-5V / 2A Phone Charger,1,Already own this,$0.00 
-3D Case,1,Epro.pk Link,$0.65 
-Epro.pk Shipping Charges,-,-,$1.30 
-AliExpress Taxes,-,-,$7.60 
-PCB,5,PCBWay,$14.70 
-TOTAL COST,,,$39 
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+ESP32-C3-SuperMini,1,https://www.aliexpress.com/item/1005012360163913.html,$2.80 
+CZL-601 Aluminum Alloy 100kg Load Cell,1,https://www.aliexpress.com/item/1005004517640674.html,$10.80 
+HX711 Module,1,https://www.aliexpress.com/item/1005012556862880.html,$4.00 
+2.54mm Pitch Female Pin Header Strip 5P,10,https://www.aliexpress.com/item/1005003610378386.html,$2.60 
+Micro-USB Cable,1,https://www.aliexpress.com/item/1005006330415728.html,$1.60 
+5V / 2A Phone Charger,1,https://www.aliexpress.com/item/1005007670822273.html,$2.00 
+3D Case,1,https://epro.pk/product/waterproof-electronic-enclosure-box-150x110x75mm-4x6x3-inch-in-pakistan/ - Can be 3D Printed also,$2.00 
+PCB,5,JLCPCB,$4 
+TOTAL COST,,,$30 
 ,,,
 ,,,
 ,,,
