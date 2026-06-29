@@ -26,15 +26,14 @@ I built this project to solve the real problem we faced at our farm - manual mil
 
 #### Screenshots:
 
-![3D Image](Media\3D Image PCB.png)
-![Assembled Image](Media\Assembled Image 1.png)
-![Assembled Image](Media\Assembled Image 2.png)
-![PCB Design](Media\PCB Design (1).png)
-![PCB Design](Media\PCB Design (2).png)
+<img width="730" height="576" alt="PCB Design (2)" src="https://github.com/user-attachments/assets/aae91988-b8ab-44af-a0be-d24838c0f379" />
+<img width="720" height="566" alt="PCB Design (1)" src="https://github.com/user-attachments/assets/6f3d2518-711e-4a42-ae3f-47c35e51b611" />
+<img width="717" height="567" alt="Assembled Image 2" src="https://github.com/user-attachments/assets/08dc56a1-d4a3-49c9-af65-d6e10dc88c08" />
+<img width="777" height="553" alt="Assembled Image 1" src="https://github.com/user-attachments/assets/301a611a-7cc2-4d3e-8544-50fcdbbc3b37" />
+<img width="573" height="424" alt="3D Image PCB" src="https://github.com/user-attachments/assets/58cf9de8-4d0c-4106-823e-6059a5be19d6" />
+
 
 #### Bill of Materials
-
-# Bill of Materials (BOM)
 
 | Item Name | Quantity | Link | Cost |
 | :--- | :---: | :--- | :---: |
