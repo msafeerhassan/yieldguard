@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,"TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal",1,Conn_01x04_Socket,
+U1,ESP32-C3_SuperMini,1,ESP32_C3_Super_Mini,
+U2,HX711_module,1,HX711,
